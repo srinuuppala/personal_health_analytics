@@ -77,19 +77,7 @@ healthtrack-pro/
 
 ---
 
-## 🚀 Deploy to Streamlit Cloud (Free)
-
-1. Push your project to a **public GitHub repository**
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **"New app"** → connect your GitHub repo
-4. Set **main file** to `app.py`
-5. Click **Deploy** 🎉
-
-> **Note:** On Streamlit Cloud, the SQLite database resets on redeploy. For persistent storage, consider upgrading to PostgreSQL via `st.secrets`.
-
----
-
-## 📝 Resume Description
+## 📝 Description
 
 > "Developed a multi-user health analytics web application using Streamlit, enabling daily tracking of weight and BMI with interactive dashboards and machine learning-based predictions for future weight trends. Implemented SHA-256 authentication, SQLite storage, and Plotly visualizations to provide actionable health insights."
 
@@ -97,8 +85,8 @@ healthtrack-pro/
 
 ## 🔮 Future Enhancements
 
-- [ ] Calorie & nutrition tracking
-- [ ] Export PDF report
-- [ ] Email reminders
-- [ ] ARIMA / time-series model
+- [@] Calorie & nutrition tracking
+- [@] Export PDF report
+- [@] Email reminders
+- [@] ARIMA / time-series model
 - [ ] Mobile-friendly PWA version
