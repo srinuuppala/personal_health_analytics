@@ -83,6 +83,11 @@ healthtrack-pro/
 
 ---
 
+## 🚀 Live Demo
+🔗 https://srinuhealthapp.streamlit.app
+
+---
+
 ## 🔮 Future Enhancements
 
 - [ ] Calorie & nutrition tracking
