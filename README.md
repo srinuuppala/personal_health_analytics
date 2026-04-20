@@ -85,8 +85,8 @@ healthtrack-pro/
 
 ## 🔮 Future Enhancements
 
-- [@] Calorie & nutrition tracking
-- [@] Export PDF report
-- [@] Email reminders
-- [@] ARIMA / time-series model
+- [ ] Calorie & nutrition tracking
+- [ ] Export PDF report
+- [ ] Email reminders
+- [ ] ARIMA / time-series model
 - [ ] Mobile-friendly PWA version
